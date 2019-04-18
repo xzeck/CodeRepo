@@ -2,7 +2,6 @@ StudentList = ["Student1", "Student2", "Student3", "Student4", "Student5", "Stud
 
 choice = ''
 
-
 def addStudent():
     n = int(input("\nEnter the number of students you want to add"))
 
