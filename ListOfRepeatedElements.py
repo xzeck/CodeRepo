@@ -10,7 +10,6 @@ def DisplayRepeated(InputElements):
     return Repeated
 
 
-
 def CallFunction():
     InputElements = ["Something", "Something2", "Something3", "Something4", "Repeating", "Repeating"]
     Res = DisplayRepeated(InputElements)    
