@@ -18,3 +18,4 @@ P = Person("SomeName")
 print(P.getName(), P.IsStudent())
 S = Student("SomeName")
 print(S.getName(), S.IsStudent())
+x
