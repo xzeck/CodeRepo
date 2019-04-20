@@ -29,7 +29,7 @@ def reducefunc():
     pass
 
 
-# mapfunc()
-# listcompfunc()
-# filterfunc()
+mapfunc()
+listcompfunc()
+filterfunc()
 reducefunc()
